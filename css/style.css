@@ -1,0 +1,13 @@
+body{
+    margin: 0%;
+}
+.header {
+    background-color: #fed99b;
+    margin: 0px 0px;
+    height: 50px;
+    display: flex;
+}
+.header__title {
+    display: flex;
+    margin: 5px;
+}
