@@ -58,9 +58,3 @@ body{
     text-align: center;
     color: #fc4e34
 }
-.footer {
-    display: flex;
-    align-items: center;
-    height: 100px;
-    width: 100%;
-}
