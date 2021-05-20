@@ -1,5 +1,6 @@
 body{
     margin: 0%;
+    font-family: 'Pattaya', sans-serif;
 }
 .header {
     background-color: #fed99b;
@@ -20,6 +21,7 @@ padding-bottom: 200px;
 }
 .container__subtitle {
     font-size: 35px;
+    color: #fe654f;
 }
 .container__landscape {
 width: 200px;
