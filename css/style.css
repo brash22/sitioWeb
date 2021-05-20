@@ -15,9 +15,21 @@ body{
 display: flex;
 align-items: center;
 flex-direction: column;
-margin: 80px 120px;
+margin: 40px 120px;
+padding-bottom: 200px;
 }
 .container__subtitle {
-    display: flex;
-    align-items: center;
+    font-size: 35px;
+}
+.container__landscape {
+width: 200px;
+height: 200px;
+overflow: hidden;
+border-radius: 50%;
+}
+.container__landscape--img {
+width: auto;
+height: 152%;
+margin-left: -2px;
+
 }
