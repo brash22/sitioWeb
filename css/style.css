@@ -11,3 +11,13 @@ body{
     display: flex;
     margin: 5px;
 }
+.container {
+display: flex;
+align-items: center;
+flex-direction: column;
+margin: 80px 120px;
+}
+.container__subtitle {
+    display: flex;
+    align-items: center;
+}
