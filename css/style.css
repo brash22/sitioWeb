@@ -11,3 +11,15 @@ body{
     display: flex;
     margin: 5px;
 }
+
+.footer {
+    background-color: #fe654f;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    letter-spacing: 3px;
+}
+.footer ul {
+    text-decoration: none;
+}
